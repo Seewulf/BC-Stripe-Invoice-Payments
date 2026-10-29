@@ -4,7 +4,7 @@ A small Business Central extension that lets a customer pay a posted sales invoi
 
 I built it in October 2026 as a portfolio sample of a payment-gateway integration done properly: secrets kept in isolated storage and never in a table field, every external call logged, and money never posted twice. I have built the same pattern in production for two Nepali payment gateways (eSewa and Fonepay). This sample uses Stripe so that anyone can try it with Stripe's test cards.
 
-Business Central 29, AL runtime 18.0, target Cloud, no dependencies. Objects 58150-58189, prefix SIP, permission set and translation file included. 31 automated tests in a separate test app, all passing on a BC 29.0 online sandbox. MIT licence.
+Business Central 29, AL runtime 18.0, target Cloud, no dependencies. Objects 58150-58189, prefix SIP, permission set and translation file included. 31 automated tests in a separate test app, all passing on a BC 29.0 online sandbox, and run end to end against Stripe's test mode (screenshots below). MIT licence.
 
 ```mermaid
 sequenceDiagram
@@ -23,6 +23,27 @@ sequenceDiagram
     end
     BC->>BC: post payment, apply it to the invoice
 ```
+
+## A live run
+
+Invoice 103195 in the CRONUS UK demo company (£750.60), paid in a Stripe test sandbox with the test card 4242 4242 4242 4242, then synced once.
+
+<table>
+<tr>
+<td width="50%"><img src="docs/screenshots/2-invoice-action.jpg" alt="Posted sales invoice with the Create Stripe Payment Link action"><br><sub>1. The posted invoice gets a <b>Create Stripe Payment Link</b> action.</sub></td>
+<td width="50%"><img src="docs/screenshots/3-link-ready.jpg" alt="Payment link ready"><br><sub>2. Business Central creates the Stripe Checkout Session and offers to open it.</sub></td>
+</tr>
+<tr>
+<td><img src="docs/screenshots/4-stripe-checkout.jpg" alt="Stripe Checkout page for invoice 103195"><br><sub>3. The customer sees the invoice number and amount, with their e-mail already filled in. Cards only.</sub></td>
+<td><img src="docs/screenshots/5-payment-links-posted.jpg" alt="Stripe Payment Links showing Posted"><br><sub>4. After the sync the link is Posted: 750.60 paid, payment document SPAY00001.</sub></td>
+</tr>
+<tr>
+<td><img src="docs/screenshots/6-ledger-entries.jpg" alt="Customer ledger entries with the invoice closed"><br><sub>5. The payment is applied: invoice and payment both have 0.00 remaining. It is posted on the company's work date.</sub></td>
+<td><img src="docs/screenshots/7-activity-log.jpg" alt="Stripe Activity Log"><br><sub>6. The activity log: create session, get session, post payment, with HTTP status and duration.</sub></td>
+</tr>
+</table>
+
+The setup page after the run: [Stripe Setup](docs/screenshots/1-stripe-setup.jpg).
 
 ## What it does
 
