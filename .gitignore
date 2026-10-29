@@ -1,0 +1,8 @@
+.alpackages/
+.alcache/
+.snapshots/
+*.app
+rad.json
+**/.vscode/launch.json
+.altestrunner/
+.coverage/

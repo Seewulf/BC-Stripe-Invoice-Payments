@@ -1,0 +1,11 @@
+{
+  "name": "Stripe Invoice Payments Sample",
+  "description": "Code analysis rules for the app and the test app.",
+  "rules": [
+    {
+      "id": "PTE0012",
+      "action": "None",
+      "justification": "internalsVisibleTo exists for the test app only. It exposes all internals (including the secret-key accessors) to an app with the test app's identity, so never install the test app in production."
+    }
+  ]
+}

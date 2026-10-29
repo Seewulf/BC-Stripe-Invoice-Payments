@@ -1,0 +1,13 @@
+{
+  "folders": [
+    { "path": "app", "name": "Stripe Invoice Payments Sample" },
+    { "path": "test", "name": "Stripe Invoice Payments Sample Tests" }
+  ],
+  "settings": {
+    "al.enableCodeAnalysis": true,
+    "al.codeAnalyzers": [ "${CodeCop}", "${PerTenantExtensionCop}", "${UICop}" ],
+    "al.ruleSetPath": "../SIP.ruleset.json",
+    "editor.formatOnSave": true,
+    "files.exclude": { "**/.alpackages": true, "**/.alcache": true }
+  }
+}

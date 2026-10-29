@@ -1,0 +1,37 @@
+{
+  "id": "a13d9354-dfce-4d8a-b2ea-2de714f9f23d",
+  "name": "Stripe Invoice Payments Sample",
+  "publisher": "Prabin Bhusal",
+  "version": "1.0.0.0",
+  "brief": "Sample extension: customers pay posted sales invoices through Stripe Checkout, Business Central posts and applies the payment.",
+  "description": "Sample BC extension for online invoice payments. Creates a Stripe Checkout payment page for an open posted sales invoice, polls Stripe from a job queue and posts the customer payment applied to the invoice. Every Stripe call is logged, and a failed posting never stops the run: the link is marked Failed and can be posted again.",
+  "help": "https://github.com/Seewulf/BC-Stripe-Invoice-Payments",
+  "url": "https://github.com/Seewulf/BC-Stripe-Invoice-Payments",
+  "dependencies": [],
+  "platform": "1.0.0.0",
+  "application": "29.0.0.0",
+  "idRanges": [
+    {
+      "from": 58150,
+      "to": 58189
+    }
+  ],
+  "internalsVisibleTo": [
+    {
+      "id": "b62a4a36-c77f-4f9b-aff3-8e29c0e8f99c",
+      "name": "Stripe Invoice Payments Sample Tests",
+      "publisher": "Prabin Bhusal"
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "18.0",
+  "target": "Cloud",
+  "features": [
+    "NoImplicitWith",
+    "TranslationFile"
+  ]
+}
