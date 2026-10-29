@@ -10,7 +10,7 @@ page 58150 "SIP Stripe Setup"
     InsertAllowed = false;
     DeleteAllowed = false;
     AboutTitle = 'Get paid through Stripe';
-    AboutText = 'Create a Stripe payment page for a posted sales invoice. A job queue checks Stripe every few minutes and posts the payment applied to the invoice. Use test keys (with _test_ in the key) in a sandbox.';
+    AboutText = 'Create a Stripe payment page for a posted sales invoice. A job queue checks Stripe every few minutes and posts the payment applied to the invoice. Use Stripe test keys in a sandbox.';
 
     layout
     {

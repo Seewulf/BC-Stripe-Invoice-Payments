@@ -130,7 +130,7 @@ page 58151 "SIP Payment Links"
     }
 
     var
-        SyncedMsg: Label '%1 payment links checked.', Comment = '%1 = number of links';
+        SyncedMsg: Label 'Payment links checked: %1.', Comment = '%1 = number of links';
         PostedMsg: Label 'The payment is posted as document %1.', Comment = '%1 = payment document no.';
         StillFailedMsg: Label 'Posting failed again: %1', Comment = '%1 = error message';
         ExpireQst: Label 'Expire the payment page for invoice %1? The customer can no longer pay with it.', Comment = '%1 = invoice no.';

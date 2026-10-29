@@ -579,7 +579,7 @@
           <note from="Xliff Generator" annotates="general" priority="3">Page SIP Payment Links - NamedType StillFailedMsg</note>
         </trans-unit>
         <trans-unit id="Page 3332100493 - NamedType 573349409" size-unit="char" translate="yes" xml:space="preserve">
-          <source>%1 payment links checked.</source>
+          <source>Payment links checked: %1.</source>
           <note from="Developer" annotates="general" priority="2">%1 = number of links</note>
           <note from="Xliff Generator" annotates="general" priority="3">Page SIP Payment Links - NamedType SyncedMsg</note>
         </trans-unit>
@@ -639,7 +639,7 @@
           <note from="Xliff Generator" annotates="general" priority="3">Page SIP Stripe Setup - Property AboutTitle</note>
         </trans-unit>
         <trans-unit id="Page 1787402176 - Property 247559172" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Create a Stripe payment page for a posted sales invoice. A job queue checks Stripe every few minutes and posts the payment applied to the invoice. Use test keys (with _test_ in the key) in a sandbox.</source>
+          <source>Create a Stripe payment page for a posted sales invoice. A job queue checks Stripe every few minutes and posts the payment applied to the invoice. Use Stripe test keys in a sandbox.</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page SIP Stripe Setup - Property AboutText</note>
         </trans-unit>
