@@ -1,0 +1,35 @@
+{
+  "id": "b62a4a36-c77f-4f9b-aff3-8e29c0e8f99c",
+  "name": "Stripe Invoice Payments Sample Tests",
+  "publisher": "Prabin Bhusal",
+  "version": "1.0.0.0",
+  "brief": "Automated tests for Stripe Invoice Payments Sample.",
+  "description": "Tests for the Stripe sample: amount conversion, Stripe JSON parsing, payment link creation, sync, posting, error isolation and retry. Stripe is replaced by a mock gateway, and only Library Assert is needed, so it runs on a normal online sandbox.",
+  "dependencies": [
+    {
+      "id": "a13d9354-dfce-4d8a-b2ea-2de714f9f23d",
+      "name": "Stripe Invoice Payments Sample",
+      "publisher": "Prabin Bhusal",
+      "version": "1.0.0.0"
+    },
+    {
+      "id": "dd0be2ea-f733-4d65-bb34-a28f4624fb14",
+      "name": "Library Assert",
+      "publisher": "Microsoft",
+      "version": "29.0.0.0"
+    }
+  ],
+  "platform": "1.0.0.0",
+  "application": "29.0.0.0",
+  "idRanges": [
+    {
+      "from": 58190,
+      "to": 58199
+    }
+  ],
+  "runtime": "18.0",
+  "target": "Cloud",
+  "features": [
+    "NoImplicitWith"
+  ]
+}
