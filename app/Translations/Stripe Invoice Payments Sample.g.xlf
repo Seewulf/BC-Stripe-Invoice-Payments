@@ -1,0 +1,839 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="Stripe Invoice Payments Sample">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 900718389 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Stripe Activity Log</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SIP Activity Log - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 900718389 - Field 495089811 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies how long the call took, in milliseconds.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SIP Activity Log - Field Duration (ms) - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 900718389 - Field 495089811 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Duration (ms)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SIP Activity Log - Field Duration (ms) - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 900718389 - Field 883711285 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the number of the entry.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SIP Activity Log - Field Entry No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 900718389 - Field 883711285 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Entry No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SIP Activity Log - Field Entry No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 900718389 - Field 3446276168 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies where the error was raised.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SIP Activity Log - Field Error Call Stack - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 900718389 - Field 3446276168 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Error Call Stack</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SIP Activity Log - Field Error Call Stack - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 900718389 - Field 2750077739 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the HTTP status that Stripe returned. 0 means that no response was received.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SIP Activity Log - Field HTTP Status Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 900718389 - Field 2750077739 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>HTTP Status Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SIP Activity Log - Field HTTP Status Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 900718389 - Field 166038250 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the invoice that the operation was for.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SIP Activity Log - Field Invoice No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 900718389 - Field 166038250 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Invoice No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SIP Activity Log - Field Invoice No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 900718389 - Field 3080618677 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the result or the error message.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SIP Activity Log - Field Message - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 900718389 - Field 3080618677 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Message</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SIP Activity Log - Field Message - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 900718389 - Field 3108107879 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies what was done, for example Create Session or Post Payment.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SIP Activity Log - Field Operation - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 900718389 - Field 3108107879 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Operation</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SIP Activity Log - Field Operation - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 900718389 - Field 2897649021 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the Stripe Checkout Session.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SIP Activity Log - Field Session Id - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 900718389 - Field 2897649021 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Session Id</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SIP Activity Log - Field Session Id - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 900718389 - Field 3878926381 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies whether the operation succeeded.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SIP Activity Log - Field Success - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 900718389 - Field 3878926381 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Success</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SIP Activity Log - Field Success - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3088200493 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Gateway Result</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SIP Gateway Result - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3088200493 - Field 3732078943 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Amount Total (Minor Units)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SIP Gateway Result - Field Amount Total (Minor Units) - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3088200493 - Field 3561154705 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Currency</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SIP Gateway Result - Field Currency - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3088200493 - Field 883711285 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Entry No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SIP Gateway Result - Field Entry No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3088200493 - Field 2852966117 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Error Message</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SIP Gateway Result - Field Error Message - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3088200493 - Field 904549807 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Expires At</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SIP Gateway Result - Field Expires At - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3088200493 - Field 2750077739 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>HTTP Status Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SIP Gateway Result - Field HTTP Status Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3088200493 - Field 67870189 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Payment Intent Id</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SIP Gateway Result - Field Payment Intent Id - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3088200493 - Field 931886930 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Payment Status</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SIP Gateway Result - Field Payment Status - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3088200493 - Field 2897649021 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Session Id</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SIP Gateway Result - Field Session Id - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3088200493 - Field 945602670 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Session Status</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SIP Gateway Result - Field Session Status - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3088200493 - Field 3003898253 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>URL</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SIP Gateway Result - Field URL - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2924087084 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Payment Link</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SIP Payment Link - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2924087084 - Field 636392376 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the amount the customer is asked to pay. This is the remaining amount of the invoice when the link was created.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SIP Payment Link - Field Amount - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 2924087084 - Field 636392376 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Amount</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SIP Payment Link - Field Amount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2924087084 - Field 1144030833 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the amount sent to Stripe in the smallest currency unit, for example cents.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SIP Payment Link - Field Amount (Minor Units) - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 2924087084 - Field 1144030833 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Amount (Minor Units)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SIP Payment Link - Field Amount (Minor Units) - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2924087084 - Field 1330443460 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the amount that Stripe reports as paid.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SIP Payment Link - Field Amount Paid - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 2924087084 - Field 1330443460 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Amount Paid</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SIP Payment Link - Field Amount Paid - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2924087084 - Field 4198939294 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the currency of the invoice. Blank means local currency.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SIP Payment Link - Field Currency Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 2924087084 - Field 4198939294 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Currency Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SIP Payment Link - Field Currency Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2924087084 - Field 1582530403 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the customer ledger entry of the invoice.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SIP Payment Link - Field Cust. Ledger Entry No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 2924087084 - Field 1582530403 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cust. Ledger Entry No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SIP Payment Link - Field Cust. Ledger Entry No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2924087084 - Field 4190130733 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the customer who pays the invoice.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SIP Payment Link - Field Customer No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 2924087084 - Field 4190130733 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SIP Payment Link - Field Customer No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2924087084 - Field 883711285 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the number of the payment link.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SIP Payment Link - Field Entry No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 2924087084 - Field 883711285 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Entry No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SIP Payment Link - Field Entry No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2924087084 - Field 904549807 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies when Stripe closes the payment page.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SIP Payment Link - Field Expires At - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 2924087084 - Field 904549807 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Expires At</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SIP Payment Link - Field Expires At - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2924087084 - Field 166038250 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the posted sales invoice that the link is for.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SIP Payment Link - Field Invoice No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 2924087084 - Field 166038250 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Invoice No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SIP Payment Link - Field Invoice No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2924087084 - Field 401751910 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the last error from Stripe or from posting.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SIP Payment Link - Field Last Error - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 2924087084 - Field 401751910 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Last Error</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SIP Payment Link - Field Last Error - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2924087084 - Field 549160309 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies that the payment was posted but not applied, or that the amount paid differs from the amount asked. Apply it manually.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SIP Payment Link - Field Needs Review - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 2924087084 - Field 549160309 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Needs Review</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SIP Payment Link - Field Needs Review - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2924087084 - Field 1756312694 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the document no. of the posted customer payment.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SIP Payment Link - Field Payment Document No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 2924087084 - Field 1756312694 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Payment Document No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SIP Payment Link - Field Payment Document No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2924087084 - Field 67870189 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the Stripe payment. It is also the external document no. of the posted payment.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SIP Payment Link - Field Payment Intent Id - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 2924087084 - Field 67870189 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Payment Intent Id</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SIP Payment Link - Field Payment Intent Id - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2924087084 - Field 2897649021 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the ID of the Stripe Checkout Session.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SIP Payment Link - Field Session Id - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 2924087084 - Field 2897649021 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Session Id</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SIP Payment Link - Field Session Id - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2924087084 - Field 513339096 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies where the link is: Open, Paid (not posted yet), Posted, Failed (paid, but posting failed), Expired or Cancelled.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SIP Payment Link - Field Status - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 2924087084 - Field 513339096 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Status</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SIP Payment Link - Field Status - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2924087084 - Field 989426922 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the three-letter ISO currency code sent to Stripe.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SIP Payment Link - Field Stripe Currency - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 2924087084 - Field 989426922 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Stripe Currency</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SIP Payment Link - Field Stripe Currency - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2924087084 - Field 2454823341 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies when the link was last checked with Stripe.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SIP Payment Link - Field Synced At - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 2924087084 - Field 2454823341 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Synced At</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SIP Payment Link - Field Synced At - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2924087084 - Field 3003898253 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the address of the Stripe payment page. Send it to the customer.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SIP Payment Link - Field URL - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 2924087084 - Field 3003898253 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>URL</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SIP Payment Link - Field URL - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1787402176 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Stripe Setup</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SIP Stripe Setup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1787402176 - Field 2432073839 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the page that Stripe shows the customer when they leave the payment page without paying.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SIP Stripe Setup - Field Cancel URL - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 1787402176 - Field 2432073839 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cancel URL</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SIP Stripe Setup - Field Cancel URL - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1787402176 - Field 1568265731 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the bank account that receives Stripe payments until Stripe pays them out to your real bank account.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SIP Stripe Setup - Field Clearing Bank Account No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 1787402176 - Field 1568265731 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Clearing Bank Account No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SIP Stripe Setup - Field Clearing Bank Account No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1787402176 - Field 2891538263 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies that payment links can be created. Links that already exist are still synchronized when this is turned off.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SIP Stripe Setup - Field Enabled - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 1787402176 - Field 2891538263 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Enabled</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SIP Stripe Setup - Field Enabled - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1787402176 - Field 3357486316 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the payment provider that creates and checks the payment pages.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SIP Stripe Setup - Field Gateway - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 1787402176 - Field 3357486316 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Gateway</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SIP Stripe Setup - Field Gateway - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1787402176 - Field 2704330142 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the journal batch that the payments are posted with. Required when Journal Templ. Name Mandatory is turned on in General Ledger Setup.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SIP Stripe Setup - Field Journal Batch Name - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 1787402176 - Field 2704330142 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Journal Batch Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SIP Stripe Setup - Field Journal Batch Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1787402176 - Field 3684440170 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the cash receipt journal template that the payments are posted with. Required when Journal Templ. Name Mandatory is turned on in General Ledger Setup.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SIP Stripe Setup - Field Journal Template Name - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 1787402176 - Field 3684440170 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Journal Template Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SIP Stripe Setup - Field Journal Template Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1787402176 - Field 4187729674 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the number series for the document numbers of the payments that are posted.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SIP Stripe Setup - Field Payment Nos. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 1787402176 - Field 4187729674 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Payment Nos.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SIP Stripe Setup - Field Payment Nos. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1787402176 - Field 1663593181 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Primary Key</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SIP Stripe Setup - Field Primary Key - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1787402176 - Field 1834148316 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the page that Stripe shows the customer after a successful payment.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SIP Stripe Setup - Field Success URL - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 1787402176 - Field 1834148316 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Success URL</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SIP Stripe Setup - Field Success URL - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1822791549 - NamedType 3101851523" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Session %1, payment %2</source>
+          <note from="Developer" annotates="general" priority="2">%1 = Stripe session status, %2 = Stripe payment status</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit SIP Activity Logger - NamedType SessionStateTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 4045318642 - NamedType 3929858349" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Stripe reports the payment in %1, but the link asked for %2. The payment is not posted. Check it in the Stripe Dashboard and post it manually.</source>
+          <note from="Developer" annotates="general" priority="2">%1 = currency reported by Stripe, %2 = currency of the link</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit SIP Check Payment Link - NamedType CurrencyMismatchTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 4045318642 - NamedType 3862718662" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The invoice was settled in Business Central, so the Stripe payment page was closed.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit SIP Check Payment Link - NamedType InvoiceSettledTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2814811994 - NamedType 1428639511" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Stripe returned an error: %1</source>
+          <note from="Developer" annotates="general" priority="2">%1 = error message</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit SIP Payment Link Mgt - NamedType GatewayErr</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2814811994 - NamedType 3606625135" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Invoice %1 already has a payment link that is open, paid or waiting to be posted. Expire it or finish it first.</source>
+          <note from="Developer" annotates="general" priority="2">%1 = invoice no.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit SIP Payment Link Mgt - NamedType LinkExistsErr</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2814811994 - NamedType 3839271199" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Enter the Stripe secret key on the Stripe Setup page first.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit SIP Payment Link Mgt - NamedType NoSecretKeyErr</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2814811994 - NamedType 272352229" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The payment link for invoice %1 has no paid amount to post. Check Last Error and handle the payment in the Stripe Dashboard.</source>
+          <note from="Developer" annotates="general" priority="2">%1 = invoice no.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit SIP Payment Link Mgt - NamedType NothingToPostErr</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2814811994 - NamedType 1025180419" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer ledger entry %1 is not an invoice. Payment links can only be created for invoices.</source>
+          <note from="Developer" annotates="general" priority="2">%1 = entry no.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit SIP Payment Link Mgt - NamedType NotInvoiceErr</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2814811994 - NamedType 1425329136" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Invoice %1 has nothing left to pay.</source>
+          <note from="Developer" annotates="general" priority="2">%1 = invoice no.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit SIP Payment Link Mgt - NamedType NotOpenErr</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2814811994 - NamedType 4046751073" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Stripe payments are not set up. Open the Stripe Setup page first.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit SIP Payment Link Mgt - NamedType NotSetUpErr</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2814811994 - NamedType 2448375453" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The payment link for invoice %1 is ready. Do you want to open the payment page now?</source>
+          <note from="Developer" annotates="general" priority="2">%1 = invoice no.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit SIP Payment Link Mgt - NamedType OpenPaymentPageQst</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3575227817 - NamedType 2938394307" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Check Stripe payment links and post payments</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit SIP Payment Sync - NamedType JobDescriptionTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3575227817 - NamedType 3951065589" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Posted as payment %1</source>
+          <note from="Developer" annotates="general" priority="2">%1 = payment document no.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit SIP Payment Sync - NamedType PostedAsTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 496980108 - NamedType 1427565258" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Stripe payment %1</source>
+          <note from="Developer" annotates="general" priority="2">%1 = invoice no.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit SIP Post Payment - NamedType DescriptionTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1148146833 - NamedType 2460234969" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Stripe cannot charge %2 %1. %1 amounts must be whole numbers.</source>
+          <note from="Developer" annotates="general" priority="2">%1 = ISO currency code, %2 = amount</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit SIP Stripe Amount - NamedType FractionErr</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1148146833 - NamedType 2441600616" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Currency %1 has no three-letter ISO code. Fill in the ISO Code on the currency card, or the LCY Code in General Ledger Setup for the local currency.</source>
+          <note from="Developer" annotates="general" priority="2">%1 = currency code, or LCY</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit SIP Stripe Amount - NamedType NoIsoCodeErr</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1148146833 - NamedType 1320557081" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Currency %1 uses three decimals in Stripe. This sample does not support three-decimal currencies.</source>
+          <note from="Developer" annotates="general" priority="2">%1 = ISO currency code</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit SIP Stripe Amount - NamedType ThreeDecimalCurrencyErr</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3599835053 - NamedType 3621259247" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Business Central blocked the request to Stripe. Turn on Allow HttpClient Requests for this extension in Extension Management &gt; Configure.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit SIP Stripe Gateway - NamedType BlockedErr</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3599835053 - NamedType 3161269412" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Invoice %1</source>
+          <note from="Developer" annotates="general" priority="2">%1 = invoice no. Shown to the customer on the Stripe payment page.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit SIP Stripe Gateway - NamedType InvoiceProductLbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3599835053 - NamedType 652305382" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The request to Stripe could not be sent: %1 In a sandbox, turn on Allow HttpClient Requests for this extension in Extension Management &gt; Configure.</source>
+          <note from="Developer" annotates="general" priority="2">%1 = error from the HTTP client</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit SIP Stripe Gateway - NamedType SendFailedErr</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3599835053 - NamedType 4194956147" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1 (%2)</source>
+          <note from="Developer" annotates="general" priority="2">%1 = Stripe error message, %2 = Stripe error code or type</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit SIP Stripe Gateway - NamedType StripeErrorTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3599835053 - NamedType 3699042893" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Stripe returned a response that could not be read.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit SIP Stripe Gateway - NamedType UnexpectedResponseErr</note>
+        </trans-unit>
+        <trans-unit id="Page 900718389 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Stripe Activity Log</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SIP Activity Log - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 900718389 - Control 986080663 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies when the entry was written.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SIP Activity Log - Control CreatedAt - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 900718389 - Control 986080663 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Created At</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SIP Activity Log - Control CreatedAt - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3332100493 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Stripe Payment Links</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SIP Payment Links - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3332100493 - NamedType 4189458375" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Expire the payment page for invoice %1? The customer can no longer pay with it.</source>
+          <note from="Developer" annotates="general" priority="2">%1 = invoice no.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SIP Payment Links - NamedType ExpireQst</note>
+        </trans-unit>
+        <trans-unit id="Page 3332100493 - NamedType 563373164" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The payment is posted as document %1.</source>
+          <note from="Developer" annotates="general" priority="2">%1 = payment document no.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SIP Payment Links - NamedType PostedMsg</note>
+        </trans-unit>
+        <trans-unit id="Page 3332100493 - NamedType 785588464" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Posting failed again: %1</source>
+          <note from="Developer" annotates="general" priority="2">%1 = error message</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SIP Payment Links - NamedType StillFailedMsg</note>
+        </trans-unit>
+        <trans-unit id="Page 3332100493 - NamedType 573349409" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1 payment links checked.</source>
+          <note from="Developer" annotates="general" priority="2">%1 = number of links</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SIP Payment Links - NamedType SyncedMsg</note>
+        </trans-unit>
+        <trans-unit id="Page 3332100493 - Action 693291367 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>View the invoice entry that the link is for.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SIP Payment Links - Action CustomerLedgerEntry - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3332100493 - Action 693291367 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer Ledger Entry</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SIP Payment Links - Action CustomerLedgerEntry - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3332100493 - Action 2025645333 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Close the Stripe payment page of the selected open link, so the customer can no longer pay with it.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SIP Payment Links - Action ExpireLink - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3332100493 - Action 2025645333 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Expire Link</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SIP Payment Links - Action ExpireLink - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3332100493 - Action 2541739327 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Open the Stripe payment page of the selected open link.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SIP Payment Links - Action OpenPaymentPage - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3332100493 - Action 2541739327 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Open Payment Page</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SIP Payment Links - Action OpenPaymentPage - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3332100493 - Action 2822688148 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Post the payment of a Failed link again, for example after unblocking the customer.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SIP Payment Links - Action RetryPosting - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3332100493 - Action 2822688148 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Retry Posting</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SIP Payment Links - Action RetryPosting - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3332100493 - Action 3470463835 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Check all open links with Stripe now and post the paid ones. The job queue does the same every few minutes.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SIP Payment Links - Action SyncNow - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3332100493 - Action 3470463835 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sync Now</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SIP Payment Links - Action SyncNow - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1787402176 - Property 1064389655" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Get paid through Stripe</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SIP Stripe Setup - Property AboutTitle</note>
+        </trans-unit>
+        <trans-unit id="Page 1787402176 - Property 247559172" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Create a Stripe payment page for a posted sales invoice. A job queue checks Stripe every few minutes and posts the payment applied to the invoice. Use test keys (with _test_ in the key) in a sandbox.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SIP Stripe Setup - Property AboutText</note>
+        </trans-unit>
+        <trans-unit id="Page 1787402176 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Stripe Setup</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SIP Stripe Setup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1787402176 - NamedType 1711960538" size-unit="char" translate="yes" xml:space="preserve">
+          <source>A job queue entry for the payment sync already exists. Open Job Queue Entries to change it.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SIP Stripe Setup - NamedType AlreadyScheduledMsg</note>
+        </trans-unit>
+        <trans-unit id="Page 1787402176 - NamedType 1106378522" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Stripe accepted the key.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SIP Stripe Setup - NamedType ConnectedMsg</note>
+        </trans-unit>
+        <trans-unit id="Page 1787402176 - NamedType 3248135238" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This is not a Stripe test key (test keys have _test_ in them). Live keys take real money. Do you want to store it anyway?</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SIP Stripe Setup - NamedType NotTestKeyQst</note>
+        </trans-unit>
+        <trans-unit id="Page 1787402176 - NamedType 4066961851" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Open payment links were created with the current key. A key for another Stripe account or mode cannot check them, and they stay open until you expire them. Do you want to change the key anyway?</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SIP Stripe Setup - NamedType OpenLinksQst</note>
+        </trans-unit>
+        <trans-unit id="Page 1787402176 - NamedType 3967458668" size-unit="char" translate="yes" xml:space="preserve">
+          <source>A job queue entry now checks the payment links every 5 minutes.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SIP Stripe Setup - NamedType ScheduledMsg</note>
+        </trans-unit>
+        <trans-unit id="Page 1787402176 - Control 2445482498 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>General</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SIP Stripe Setup - Control General - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1787402176 - Control 375133987 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Payment Page</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SIP Stripe Setup - Control PaymentPage - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1787402176 - Control 2808404044 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Posting</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SIP Stripe Setup - Control Posting - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1787402176 - Control 3589680986 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Stripe Key</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SIP Stripe Setup - Control StripeKey - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1787402176 - Control 1924408611 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the Stripe secret key or restricted key, for example sk_test_..., rk_test_... or rkcs_test_... from a Stripe CLI sandbox. It is kept in isolated storage and is never shown again.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SIP Stripe Setup - Control SecretKey - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1787402176 - Control 1924408611 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Secret Key</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SIP Stripe Setup - Control SecretKey - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1787402176 - Control 1471001725 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies whether a Stripe secret key is stored.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SIP Stripe Setup - Control SecretKeySet - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1787402176 - Control 1471001725 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Secret Key Set</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SIP Stripe Setup - Control SecretKeySet - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1787402176 - Action 2678035379 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>View every call to Stripe and every posting attempt.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SIP Stripe Setup - Action ActivityLog - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1787402176 - Action 2678035379 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Activity Log</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SIP Stripe Setup - Action ActivityLog - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1787402176 - Action 1096876931 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>View the payment links and their status.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SIP Stripe Setup - Action PaymentLinks - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1787402176 - Action 1096876931 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Payment Links</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SIP Stripe Setup - Action PaymentLinks - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1787402176 - Action 4272812246 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Create a job queue entry that checks open payment links every 5 minutes and posts the paid ones.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SIP Stripe Setup - Action ScheduleSync - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1787402176 - Action 4272812246 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Schedule Sync</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SIP Stripe Setup - Action ScheduleSync - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1787402176 - Action 4263468516 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Call Stripe with the stored key to check that the key works and that the extension may make HTTP requests.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SIP Stripe Setup - Action TestConnection - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1787402176 - Action 4263468516 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Test Connection</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SIP Stripe Setup - Action TestConnection - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2729953739 - Action 1449140791 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2393537757">
+          <source>Create a Stripe payment page for the remaining amount of the selected open invoice. Business Central posts the payment when the customer has paid.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension SIP Customer Ledger Entries - Action SIPCreateStripePaymentLink - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2729953739 - Action 1449140791 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2393537757">
+          <source>Create Stripe Payment Link</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension SIP Customer Ledger Entries - Action SIPCreateStripePaymentLink - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2729953739 - Action 2729117734 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2393537757">
+          <source>View the Stripe payment links for the selected invoice.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension SIP Customer Ledger Entries - Action SIPStripePaymentLinks - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2729953739 - Action 2729117734 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2393537757">
+          <source>Stripe Payment Links</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension SIP Customer Ledger Entries - Action SIPStripePaymentLinks - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1405783734 - Action 1449140791 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2420212404">
+          <source>Create a Stripe payment page for the remaining amount of this invoice. Business Central posts the payment when the customer has paid.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension SIP Posted Sales Invoice - Action SIPCreateStripePaymentLink - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1405783734 - Action 1449140791 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2420212404">
+          <source>Create Stripe Payment Link</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension SIP Posted Sales Invoice - Action SIPCreateStripePaymentLink - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1405783734 - Action 2729117734 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2420212404">
+          <source>View the Stripe payment links for this invoice.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension SIP Posted Sales Invoice - Action SIPStripePaymentLinks - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1405783734 - Action 2729117734 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2420212404">
+          <source>Stripe Payment Links</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension SIP Posted Sales Invoice - Action SIPStripePaymentLinks - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 3648616084 - EnumValue 2193091483 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Stripe</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum SIP Payment Gateway - EnumValue Stripe - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 3844725320 - EnumValue 4069904181 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cancelled</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum SIP Payment Link Status - EnumValue Cancelled - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 3844725320 - EnumValue 1481297009 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Expired</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum SIP Payment Link Status - EnumValue Expired - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 3844725320 - EnumValue 3826689261 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Failed</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum SIP Payment Link Status - EnumValue Failed - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 3844725320 - EnumValue 4259830144 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Open</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum SIP Payment Link Status - EnumValue Open - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 3844725320 - EnumValue 789473408 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Paid</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum SIP Payment Link Status - EnumValue Paid - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 3844725320 - EnumValue 35450067 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Posted</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum SIP Payment Link Status - EnumValue Posted - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PermissionSet 3619063981 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Stripe Invoice Payments Sample</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PermissionSet SIP STRIPE PAY - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
